@@ -4,4 +4,4 @@
 
 [U.S. Cybersecurity Policy: Addressing Emerging Threats Through Unified Governance](https://github.com/chaseaham/Operations/issues/7)
 
-[Cybersecurity Audit: Operation Winniebago](https://github.com/chaseaham/Operations/issues/2)
+[Cybersecurity Audit: Operation Winniebago]([https://github.com/chaseaham/Operations/issues/2](https://github.com/chaseaham/Cyber-Threat-Analysis/blob/main/Operation%20Winnebago%20Cybersecurity%20Audit%20Report))
